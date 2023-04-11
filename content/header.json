@@ -14,12 +14,19 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/acessorios?Acessórios",
+      "/alongamento-unhas?Alongamento Unhas",
+      "/decoracao?Decoração",
+      "/esmalte-em-gel?Esmalte em Gel",
+      "/kits?Kits",
+      "/maquinarios?Maquinários"
+    ],
     "random": 6,
     "full_width": false
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
