@@ -1,6 +1,6 @@
 {
   "meta_title": "Jack Cosméticos",
-  "meta_description": "Produtos e Equipamentos para Nail Design",
+  "meta_description": "Produtos e Equipamentos para Nail Design - Unhas",
   "sections": [
     {
       "type": "banner-slider",
@@ -38,7 +38,7 @@
     {
       "type": "dynamic-showcase",
       "load_more": true,
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
