@@ -5,17 +5,17 @@
       "enabled": true
     },
     {
-      "type": "product-description",
-      "title": "Quem comprou este produto, também comprou:",
-      "enabled": true
-    },
-    {
       "type": "product-block",
       "enabled": true,
       "size_guide": {
         "image": "",
         "title": ""
       }
+    },
+    {
+      "type": "product-description",
+      "title": "Quem comprou este produto, também comprou:",
+      "enabled": true
     },
     {
       "type": "recommended-products",
