@@ -1,14 +1,14 @@
 {
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "offers-timer",
       "max_hours": 24,
       "start": "2023-08-05T13:22:31.371Z",
       "end": "2023-08-05T15:21:29.803Z"
-    },
-    {
-      "type": "breadcrumbs",
-      "enabled": true
     },
     {
       "type": "product-block",
