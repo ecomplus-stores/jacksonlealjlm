@@ -21,6 +21,13 @@
           "img": "/img/uploads/banner-site.jpg",
           "alt": "Banner sample two",
           "mobile_img": "/img/uploads/prancheta-1-copiar-3.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "mobile_img": "/img/uploads/curso-online.png",
+          "link": "https://jackcursos.com.br/dmn",
+          "img": "/img/uploads/curso-online-1200-300-px-.png"
         }
       ]
     },
