@@ -13,6 +13,12 @@
           "mobile_img": "/img/uploads/curso-online-2-.png",
           "link": "https://jackcursos.com.br/dmn",
           "img": "/img/uploads/curso-online-1200-300-px-.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/promosite-1200-x-300-px-.png",
+          "mobile_img": "/img/uploads/fretegratismobile.png"
         }
       ]
     },
