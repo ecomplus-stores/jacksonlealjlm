@@ -8,24 +8,9 @@
       "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/prancheta-1-copiar-5.png",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/prancheta-1-copiar-5.png"
-        },
-        {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-site.jpg",
-          "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/banner-site.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "mobile_img": "/img/uploads/curso-online.png",
+          "mobile_img": "/img/uploads/curso-online-2-.png",
           "link": "https://jackcursos.com.br/dmn",
           "img": "/img/uploads/curso-online-1200-300-px-.png"
         }
