@@ -28,7 +28,7 @@ if (opt.img) {
     <a
       href="<%= opt.link || 'javascript:;' %>"
       aria-label="<%= opt.alt %>"
-      target="<%- opt.link.includes('https') ? '_blank' : '_self' %>"
+      target="<%= (opt.link && opt.link.includes('https')) ? '_blank' : '_self' %>"
     >
       <picture
         <% if (opt.sync_load) { %>
