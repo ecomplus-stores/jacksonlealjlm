@@ -28,6 +28,19 @@
       "sort": "sales"
     },
     {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "642d5c244bd2e929c1c23e66:categories:Esmalte em Gel:/esmalte-em-gel",
+      "sort": "sales"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -48,14 +61,6 @@
       "headless": false,
       "limit": 12,
       "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "642d5c244bd2e929c1c23e66:categories:Esmalte em Gel:/esmalte-em-gel",
-      "sort": "sales"
     },
     {
       "type": "brands-carousel",
