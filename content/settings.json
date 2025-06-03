@@ -1,26 +1,26 @@
 {
   "domain": "www.jackcosmeticos.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#7c51a0",
+  "primary_color": "#efabeb",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/jacksonlealjlm",
-  "logo": "/img/uploads/logo-1-.png",
+  "logo": "/img/uploads/logo_jc_completa__positivo_03.png",
   "name": "Jack Cosméticos",
   "short_name": "Jack Cosméticos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/logo-1-.png",
+  "favicon": "/img/uploads/logo_jc_simplificada__positivo_02.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#feadc6",
-  "icon": "/img/uploads/logo-1-.png",
+  "secondary_color": "#2f0572",
+  "icon": "/img/uploads/logo_jc_completa__positivo_03.png",
   "store_id": 51373,
   "description": "Jack Cosméticos - A loja da Nail Designer",
-  "large_icon": "/img/uploads/logo-1-.png"
+  "large_icon": "/img/uploads/logo_jc_completa__positivo_03.png"
 }
